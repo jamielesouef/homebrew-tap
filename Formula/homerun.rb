@@ -1,8 +1,8 @@
 class Homerun < Formula
   desc "WIP-commit and push every dirty repo before you head home"
   homepage "https://github.com/jamielesouef/homerun"
-  url "https://github.com/jamielesouef/homerun/releases/download/v0.2.0/homerun-v0.2.0-macos.zip"
-  sha256 "ac05fd42d0c3519fc4ba5f4f67931f6807448b01351522fafeee16c235d5abe8"
+  url "https://github.com/jamielesouef/homerun/releases/download/v0.2.1/homerun-v0.2.1-macos.zip"
+  sha256 "87f5c669b2d9991a8ab05ad5eb1af6d9d02fadbd1cbe9582f40ba1ee52000348"
   license "MIT"
   depends_on macos: :ventura
 
